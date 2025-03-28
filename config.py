@@ -29,7 +29,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002341804786"))
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "urr_sanjiii")
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "7827448605"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1683225887"))
 #Port
 PORT = os.environ.get("PORT", "194")
 #Database
